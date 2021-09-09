@@ -1,0 +1,10 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.npucraft.npuconstruction.mixin",
+  "mixins": [
+    "MixinBlock",
+    "MixinTileEntity"
+  ],
+  "client": [],
+  "server": []
+}
